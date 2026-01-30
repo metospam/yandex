@@ -10,7 +10,7 @@
 		"email": "dmitry.arhitector@yandex.ru"
 	}],
 	"require": {
-		"php": "^7.4|^8.0",
+		"php": "^8.5",
 		"laminas/laminas-diactoros": "^2.17",
 		"league/event": "^2.2",
 		"php-http/curl-client": "^2.2",
